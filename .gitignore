@@ -1,0 +1,8 @@
+#The node_modules folder
+node_modules/
+
+#package.json file
+package.json
+
+#package-lock.json
+package-lock.json
